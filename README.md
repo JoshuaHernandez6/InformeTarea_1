@@ -30,7 +30,7 @@ Identificar conceptos esenciales de la materia de fundamentos de circuitos eléc
 
 # 4. VIDEO
 
-
+https://www.youtube.com/watch?v=tnfpi5K0rGI
 
 # 5. CONCLUSIONES
 
