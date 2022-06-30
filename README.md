@@ -34,10 +34,13 @@ https://www.youtube.com/watch?v=tnfpi5K0rGI
 
 # 5. CONCLUSIONES
 
-
+* Los conceptos básicos son necesarios para un mejor entendimiento de los circuitos eléctricos, mostrando un uso correcto de los teoremas de thevenin, Norton y circuitos que brindan ayuda en los cálculos de voltajes, corrientes y resistencias, además gracias al conocimiento de potencia antes adquiridos se pudo definir la potencia máxima de un circuito.
+* La revisión de material didáctico aporto en gran cantidad con la información requerida para el aprendizaje y sirvió como método de guía al tema.
+* La elaboración del documento escrito es de gran ayuda para plasmar el conocimiento adquirido, mostrando, por medio de la utilización de ejemplos, el uso correcto de fórmulas como son las de la ley de ohm y la de la potencia, para aplicar de manera adecuada en los teoremas aprendidos en estos capítulos.
 
 # 6. BIBLIOGRAFÍA
 
 RÚBRICA
+* Floyd T.L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. (8va ed.). México: Pearson Educación de México
 
 ![image](https://user-images.githubusercontent.com/105715717/169317190-bc22ade9-5394-4192-a50b-c82a14cf7ca9.png)
