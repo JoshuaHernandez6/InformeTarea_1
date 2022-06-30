@@ -26,6 +26,32 @@ Identificar conceptos esenciales de la materia de fundamentos de circuitos eléc
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
+SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
+2. Visualice y trace los siguientes circuitos en serie-paralelo:
+
+(a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie 
+
+![image](https://user-images.githubusercontent.com/105715717/176717227-1daf5431-1524-4580-8196-531488d352f4.png)
+ 
+(b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
+
+![image](https://user-images.githubusercontent.com/105715717/176717247-ebe74d1c-5d5a-47a0-8e49-2f16c36a69be.png)
+
+4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
+
+![image](https://user-images.githubusercontent.com/105715717/176717293-05e8c417-bca7-4e32-94aa-2935aaa98bed.png)
+
+![image](https://user-images.githubusercontent.com/105715717/176717311-57f53295-0823-4c13-8370-8db0ba5bead1.png)
+
+![image](https://user-images.githubusercontent.com/105715717/176717323-8c353a95-cb9b-4676-a878-5b5378ad9a5a.png)
+
+![image](https://user-images.githubusercontent.com/105715717/176717340-36e021d7-ed99-4e3d-8c38-8624be60a509.png)
+
+SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
+
+8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Ω. Uno de los resistores es de 1.0 kΩ. ¿Cuál es el otro resistor?
+
+![image](https://user-images.githubusercontent.com/105715717/176717403-aac298ae-dbcc-4245-949f-af457adf12be.png)
 
 
 # 4. VIDEO
