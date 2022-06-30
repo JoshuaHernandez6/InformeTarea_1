@@ -53,6 +53,16 @@ SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/105715717/176717403-aac298ae-dbcc-4245-949f-af457adf12be.png)
 
+10. Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Ω, 2.2 Ω, 5.6 Ω, 12 Ω, y 22 Ω. Determine la resistencia total.
+
+![image](https://user-images.githubusercontent.com/105715717/172436804-a32f467d-f442-4543-b7d0-b55663ffdc5a.png)
+
+12. Calcule la RT en cada circuito de la figura 5-71.
+
+![image](https://user-images.githubusercontent.com/105715717/172436738-d4146c23-4c37-4e3b-8948-00ebd7992805.png)
+
+![image](https://user-images.githubusercontent.com/105715717/172436848-4b7388cd-9280-4ba0-a5eb-a77f515bc595.png)
+
 14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente
 
 ![image](https://user-images.githubusercontent.com/105715717/176717540-7a07f2a4-436c-4b85-b9e6-94c8038fbf52.png)
@@ -72,6 +82,12 @@ SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 ![image](https://user-images.githubusercontent.com/105715717/176717824-cd62eae3-f57d-4772-b386-02a97552e30e.png)
 
 SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
+
+24. Determine la caida de voltaje R1, R2 y R3 
+
+![image](https://user-images.githubusercontent.com/105715717/172437409-502a9ef6-83bb-4682-859c-e43f996ef615.png)
+
+![image](https://user-images.githubusercontent.com/105715717/172437572-e0ab5d3d-0875-4859-9a87-b57932da607a.png)
 
 28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kΩ conectada de A a B, ¿cuál es el voltaje de salida?
 
