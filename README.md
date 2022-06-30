@@ -53,6 +53,52 @@ SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/105715717/176717403-aac298ae-dbcc-4245-949f-af457adf12be.png)
 
+14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente
+
+![image](https://user-images.githubusercontent.com/105715717/176717540-7a07f2a4-436c-4b85-b9e6-94c8038fbf52.png)
+
+![image](https://user-images.githubusercontent.com/105715717/176717634-7712303e-161f-487a-9b2d-6b238d0a6379.png)
+
+18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje
+
+![image](https://user-images.githubusercontent.com/105715717/176717680-17b6bbf3-7213-477f-9d9b-05aed0000feb.png)
+
+![image](https://user-images.githubusercontent.com/105715717/176717725-4e4d4692-98f2-470c-a059-886806994428.png)
+
+22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC, RAD, RAE, RAF, y RAG).
+
+![image](https://user-images.githubusercontent.com/105715717/176717783-9149eef6-7a9b-4310-a304-f584dca444f9.png)
+
+![image](https://user-images.githubusercontent.com/105715717/176717824-cd62eae3-f57d-4772-b386-02a97552e30e.png)
+
+SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
+
+28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kΩ conectada de A a B, ¿cuál es el voltaje de salida?
+
+![image](https://user-images.githubusercontent.com/105715717/176717878-9ec0a5de-c7e6-4147-b8c3-ae0109e9ecab.png)
+
+![image](https://user-images.githubusercontent.com/105715717/176717932-b451cb71-e4fa-4c16-9f23-9dc15126c982.png)
+
+SECCIÓN 7–4 Efecto de carga de un voltímetro
+
+36. Determine la resistencia interna de un voltímetro de 20,000 Ω/V en cada uno de los siguientes ajustes de intervalo.
+
+![image](https://user-images.githubusercontent.com/105715717/176718052-989602d1-5561-44ad-a02b-a570bab5a290.png)
+
+SECCIÓN 7–6 El puente Wheatstone
+
+46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV = 18 kΩ y R2/R4 = 0.02. ¿Cuál es RX?
+
+![image](https://user-images.githubusercontent.com/105715717/176718184-1045e9c6-ba01-4178-a356-7c081656bb24.png)
+
+
+SECCIÓN 7–7 Localización de fallas
+
+50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
+
+![image](https://user-images.githubusercontent.com/105715717/176718227-d8931a9e-ee80-4cd0-84d5-a1a8746afc43.png)
+
+NO
 
 # 4. VIDEO
 
@@ -66,7 +112,8 @@ https://www.youtube.com/watch?v=tnfpi5K0rGI
 
 # 6. BIBLIOGRAFÍA
 
-RÚBRICA
 * Floyd T.L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. (8va ed.). México: Pearson Educación de México
+
+RÚBRICA
 
 ![image](https://user-images.githubusercontent.com/105715717/169317190-bc22ade9-5394-4192-a50b-c82a14cf7ca9.png)
