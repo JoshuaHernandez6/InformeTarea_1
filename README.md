@@ -57,7 +57,7 @@ SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/105715717/172436804-a32f467d-f442-4543-b7d0-b55663ffdc5a.png)
 
-12. Calcule la RT en cada circuito de la figura 5-71.
+12. Calcule la RT en cada circuito de la figura.
 
 ![image](https://user-images.githubusercontent.com/105715717/172436738-d4146c23-4c37-4e3b-8948-00ebd7992805.png)
 
